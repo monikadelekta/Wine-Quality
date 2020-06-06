@@ -52,3 +52,16 @@ A supervised learning approach where given a set of features and a target it can
 * Sensitive to feature scaling
 
 Documentation for MLP can be found [here](https://scikit-learn.org/stable/modules/neural_networks_supervised.html).
+
+## Packages Used
+
+The packages used in the code are:
+
+* Pandas
+* Seaborn
+* Matplotlib
+* Sklearn
+
+Python version 3.8
+
+END
